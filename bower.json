@@ -1,0 +1,30 @@
+{
+  "name": "sharecore-lib",
+  "main": "./sharecore-lib.min.js",
+  "version": "0.13.19",
+  "homepage": "http://sharecore.io",
+  "authors": [
+    "BitPay, Inc."
+  ],
+  "description": "A pure, powerful core for your sharecoin project.",
+  "moduleType": [
+    "globals"
+  ],
+  "keywords": [
+    "sharecoin",
+    "sharecore",
+    "btc",
+    "satoshi"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "CONTRIBUTING.md",
+    "gulpfile.js",
+    "lib",
+    "index.js",
+    "karma.conf.js",
+    "npm-shrinkwrap.json",
+    "test"
+  ]
+}
